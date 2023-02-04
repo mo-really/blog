@@ -1,4 +1,12 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Sample Webstie'
+title = 'Mo Really Sample Hugo Website'
 theme = 'ananke'
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+
+[params]
+  author = "Mo Really"
+  description  = "Sample Description of what ever"
+

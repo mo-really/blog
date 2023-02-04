@@ -5,8 +5,13 @@ theme = 'ananke'
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
+Paginate = 1
+
 
 [params]
   author = "Mo Really"
   description  = "Sample Description of what ever"
 
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com"
